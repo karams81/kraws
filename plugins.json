@@ -43,15 +43,15 @@
     "hash": "98076391262ce8f81706cebb27e5f47427ed06e710a5c8316a0de60873f41e94"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSporDestek.cs3?v=c2b63e25426f",
+    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream-Extensions/builds/SafakStreamCinema.cs3",
     "status": 1,
     "version": 3,
-    "name": "00 · TurkSpor'a destek ol ☕",
-    "internalName": "TurkSporDestek",
+    "name": "SafakStreamCinema",
+    "internalName": "SafakStreamCinema",
     "authors": [
       "Wiojelt"
     ],
-    "description": "TurkSpor’a destek ol ☕ · @wiojelt · made with ♥",
+    "description": "SafakStream Cinema - Binlerce film ve diziyi Full HD kalitesinde, T\u00fcrk\u00e7e altyaz\u0131 ve dublaj se\u00e7enekleriyle ke\u015ffedin.",
     "fileSize": 149788,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
@@ -60,7 +60,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/support-qr.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c2b63e25426f1f88536110ace2cf16bf1e791b0f16f7008dec5945945dba9bfd"
+    "fileHash": ""sha256-7f45ded5666ad9d27125209880954eec6a6e0a23c243ed5283a78da966319eec"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TurkishCineStream.cs3?v=ca1989aeea4c",
@@ -215,15 +215,15 @@
     "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/ArdaSpor.cs3?v=2944961cee66",
+    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream-Extensions/builds/SafakStreamHub.cs3",
     "status": 3,
     "version": 12,
-    "name": "ArdaSpor",
-    "internalName": "ArdaSpor",
+    "name": "SafakStreamHub",
+    "internalName": "SafakStreamHub",
     "authors": [
-      "Wiojelt"
+      "SafakStream"
     ],
-    "description": "ğŸŸ¢ Kaynak: ArdaSpor Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
+    "description": "SafakStream projesi hakk\u0131nda bilgi, GitHub ba\u011flant\u0131s\u0131 ve Kreosus \u00fczerinden destek olma imkan\u0131 sunar.",
     "fileSize": 182830,
     "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
@@ -232,7 +232,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2944961cee6655da0dacfd17feb7dd52a0739e5fcba1367c03766bae0a1843de"
+    "fileHash": "sha256-8be797bd62da6c5cb920a2f88732a9d5df828abfb84ce4b1879f1de03666c81d"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/AslanTV.cs3?v=3abc75e13cc7",
@@ -2289,11 +2289,11 @@
       "NSFW"
     ],
     "version": 2,
-    "internalName": "HdAbla",
-    "description": "Porno film izlemek için HdAbla sitesini ziyaret edin. Keyifle mobil sikiş seyret. Sex ve rokettube seks videolarını güncel olarak Full HD kalitede bedava adult porn sunuyoruz",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HdAbla.cs3",
-    "name": "HdAbla",
-    "fileHash": "sha256-cb652beb4fa6d583de3cbfdcc30b0fffab72fbe9158114bc3f3ff8673df52215"
+    "internalName": "SafakStreamTV",
+    "description": "SafakStream TV - Canl\u0131 TV Yay\u0131nlar\u0131",
+    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream-Extensions/builds/SafakStreamTV.cs3",
+    "name": "SafakStreamTV",
+    "fileHash": "sha256-5bbe289f6cb32736d35a895c10525b841a6c0f2d18db5d8b2ecea551042644fc"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
@@ -2833,11 +2833,11 @@
       "NSFW"
     ],
     "version": 2,
-    "internalName": "Kalite18",
-    "description": "Kalite18, sizlere porno filmleri HD kalite ve türkçe altyazılı olarak izleme keyfi sunmaktadır. Porno ve sex filmlerini anlayarak 31 çekmenin keyfini çıkarın.",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Kalite18.cs3",
-    "name": "Kalite18",
-    "fileHash": "sha256-390fb9265a4eb5c3d13f774d9eb2264b36ea8aa7c234a45af4d4c35f42d20775"
+    "internalName": "StreamingCommunity",
+    "description": "StreamingCommunity | Film e Serie TV",
+    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream-Extensions/builds/StreamingCommunity.cs3",
+    "name": "StreamingCommunity",
+    "fileHash": "sha256-5038119e1a8fff251d3a7dd808d79a37d3ecb661a3eac332f82abde45df337b0"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/KanalD.cs3",
@@ -3365,11 +3365,11 @@
       "Live"
     ],
     "version": 3,
-    "internalName": "myway TV - Latte",
-    "description": "Sinetech.tr Forum myway canlı tv listesi",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/myway TV - Latte.cs3",
-    "name": "myway TV - Latte",
-    "fileHash": "sha256-d8a76eaca80e333e339dcb33fb17d9e7a49f65db471585964adf57ec22fc082d"
+    "internalName": "InatTV",
+    "description": "inatTV - Canl\u0131 ma\u00e7 yay\u0131nlar\u0131, 7/24 TV kanallar\u0131 ve spor kar\u015f\u0131la\u015fmalar\u0131n\u0131 Cloudstream \u00fczerinden izle.",
+    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream-Extensions/builds/InatTV.cs3",
+    "name": "InatTV",
+    "fileHash": "sha256-405cf028818fe752ada663f09184d8334fb475c8d9be692cff9300113981bd61"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png",
