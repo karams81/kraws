@@ -17,16 +17,6 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/c71b4e75-87a1-4048-a388-2f7fc5e
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/8f46cd5d-e996-4ba3-a71c-198480f5e288.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJsfy7Hn/NOW-TV-(Turkey)-wordmark-red-svg.webp" group-title="ULUSAL",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/fox.png" group-title="ULUSAL",TR:NOW UHD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/ca62c03b-0064-4fa8-85ee-ba3a7a23d293.m3u
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/fox.png" group-title="ULUSAL",TR:NOW HD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/3e46da80-1a93-42cb-9828-66e3639f68b0.m3u
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="ULUSAL",TR:TV 8 UHD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/dc047476-1003-4dc5-82be-530b868af48a.m3u
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="ULUSAL",TR:TV 8 HD
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/91683518-cc66-4ec5-9b96-895f5ca21fd6.m3u
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="ULUSAL",TR:TV 8 HQ
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/4ca1fee9-2ade-4e5a-87ce-945253971ed3.m3u
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/29723/logo_256_1734935765.png" group-title="ULUSAL",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="HABER",TRT Haber
