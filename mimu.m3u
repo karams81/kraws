@@ -30,7 +30,9 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="HABER",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/960px-Logo_bein_sports_1.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 1
-https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://biatsports43.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://f2q.zirvedesin247.cfd/zirve/mono.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 2
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 3
