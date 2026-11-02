@@ -1,0 +1,131 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" group-title="ULUSAL",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TTRT.2.HD.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" group-title="ULUSAL",Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="STAR.TV.HD.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" group-title="ULUSAL",Star TV
+https://x.canlitvapp.com/star/index.m3u8?token=5079b0db0c9519fa23133b477486448a7280db7b-2c34fda2da38bbd4a20bd6301875924f-1779374273-1779363473
+#EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" group-title="ULUSAL",Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="ULUSAL",TR:ATV UHD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/eb8806ac-ebbf-43c3-a874-afd02b6a814e.m3u
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="ULUSAL",TR:ATV HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/c71b4e75-87a1-4048-a388-2f7fc5e5c07b.m3u
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="ULUSAL",TR:ATV HQ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/8f46cd5d-e996-4ba3-a71c-198480f5e288.m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJsfy7Hn/NOW-TV-(Turkey)-wordmark-red-svg.webp" group-title="ULUSAL",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/29723/logo_256_1734935765.png" group-title="ULUSAL",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="HABER",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.haberglobal.com/storage/files/images/2022/01/11/mikrofon-logo-1-1-QENs.png" group-title="HABER",Haber Global
+https://stream-extractor.koprulu2.workers.dev/?url=https://www.ensonhaber.com/canli-tv/haberglobal_canliyayin&ext=m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png" group-title="HABER",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WJm8IMexX9Atd0eOkmHFXagUieCC43mZO1B-TQAhBYm8iR4H5do0Go_kYWz_g-bSYxx6yXZPycI" group-title="HABER",TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="HABER",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/960px-Logo_bein_sports_1.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 1
+#EXTVLCOPT:http-referrer=https://golvarmac1.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://css.d6e3eds5e065t5.help//hls/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 2
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 3
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/960px-Logo_bein_sports_4.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR" ,Bein Sports 4
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/960px-Logo_BeinSports_5_MAX.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPOR",Bein Sports 5
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/tr/thumb/8/82/S_Sport_logo.jpg/960px-S_Sport_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20180827151722" group-title="SPOR",S Sport 1
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/tr/thumb/e/ed/S_Sport_2_logo.jpg/960px-S_Sport_2_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20180827152027" group-title="SPOR" ,S Sport 2
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssport2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp9YQLxlNh3fR8D778pE-vVH97IfnFFtoa_Hf9TTp6g&s=10" group-title="SPOR",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/images/logo.png" group-title="SPOR",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4ca1fe1-e4ef-496a-9e97-b41a55910e43.png" group-title="SPOR",Ekol Sport
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" group-title="ULUSAL",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="DİNİ",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2022/12/TGRT_Belgesel_Bize_Ulasin.jpg" group-title="BELGESEL",TGRT Belgesel
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20609/logo_256_1699961655.png" group-title="BELGESEL",TRT Belgesel
+https://boncuktv.seni-elime-gecirirsem.workers.dev/trtbelgesel
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2009963534021459968/JwBVdge0_400x400.jpg" group-title="BELGESEL",TRT GENÇ
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="BELGESEL",Yaban TV
+http://116.202.238.88/YABANTV_TR/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/22968/logo_256_1707397507.png" group-title="ULUSAL",Teve 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1" tvg-logo=" " group-title="Tabii",TRT 1 (1440p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT 2 HD" tvg-logo=" " group-title="Tabii",TRT 2 (1440p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT Avaz" tvg-logo=" " group-title="Tabii",TRT AVAZ (1440p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TRT TURK HD" tvg-logo=" " group-title="Tabii",TRT TÜRK (1440p)
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT Haber" tvg-logo=" " group-title="Tabii",TRT HABER (1440p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtspor.at" tvg-name="TRT Spor" tvg-logo=" " group-title="Tabii",TRT SPOR (1440p)
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtsporyildiz" tvg-name="TRT SPOR Yıldız" tvg-logo=" " group-title="Tabii",TRT SPOR YILDIZ (1440p)
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT Belgesel" tvg-logo=" " group-title="Tabii",TRT BELGESEL (1440p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk HD" tvg-logo=" " group-title="Tabii",TRT ÇOCUK (1440p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT DIYANET COCUK" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230518007126.png" group-title="Tabii",TRT ÇOCUK DİYANET (1440p)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtgenc.tr" tvg-name="TRT GENÇ (RAW)" tvg-logo="https://i.ibb.co/v469jC7C/image-removebg-preview-1.png" group-title="Tabii",TRT GENÇ (1440p)
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo=" " group-title="Tabii",TRT EBA
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo=" " group-title="Tabii",TRT MÜZİK (1440p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor" tvg-logo=" " group-title="Tabii",TABİİ SPOR (1440p)
+https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor" tvg-logo=" " group-title="Tabii",TABİİ SPOR
+http://live.tabitv.workers.dev/?ID=tabii%20spor
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 1" tvg-logo=" " group-title="Tabii",TABİİ SPOR 1 (1440p)
+https://Pz4qT7nW1mR9sH2vL5xK8jG3y.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 1" tvg-logo=" " group-title="Tabii",TABİİ SPOR 1
+http://live.tabitv.workers.dev/?ID=tabii%20Spor%201
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 2" tvg-logo=" " group-title="Tabii",TABİİ SPOR 2 (1440p)
+https://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 2" tvg-logo=" " group-title="Tabii",TABİİ SPOR 2
+http://live.tabitv.workers.dev/?ID=tabii%20Spor%202
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 3" tvg-logo=" " group-title="Tabii",TABİİ SPOR 3 (1440p)
+https://mR4vL7nQ2sH9tW5xP1zK3gJ8b.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 3" tvg-logo=" " group-title="Tabii",TABİİ SPOR 3
+http://live.tabitv.workers.dev/?ID=tabii%20Spor%203
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 4" tvg-logo=" " group-title="Tabii",TABİİ SPOR 4 (1440p)
+https://sh7tq2nw5mr1vl9xp4zk3gj8k.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 4" tvg-logo=" " group-title="Tabii",TABİİ SPOR 4
+http://live.tabitv.workers.dev/?ID=tabii%20Spor%204
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 5" tvg-logo=" " group-title="Tabii",TABİİ SPOR 5 (1440p)
+https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 5" tvg-logo=" " group-title="Tabii",TABİİ SPOR 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 6" tvg-logo=" " group-title="Tabii",TABİİ SPOR 6 (1440p)
+https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 6" tvg-logo=" " group-title="Tabii",TABİİ SPOR 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 7" tvg-logo=" " group-title="Tabii",TABİİ SPOR 7 (1440p)
+https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 7" tvg-logo=" " group-title="Tabii",TABİİ SPOR 7
+https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor 8" tvg-logo=" " group-title="Tabii",TABİİ SPOR 8 (1440p)
+https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8
+
