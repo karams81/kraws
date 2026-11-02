@@ -3,6 +3,6 @@
   "description": "HR Cloudstream eklenti deposu.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/karams81/kraws/refs/heads/main/plugins.json"
+    "https://raw.githubusercontent.com/karams81/csrepo/refs/heads/main/plugins-x92.json"
   ]
 }
