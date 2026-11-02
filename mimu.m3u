@@ -1,13 +1,13 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" group-title="ULUSAL",TRT 1
+#EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="ULUSAL",TRT 2
+#EXTINF:-1 tvg-id="TTRT.2.HD.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" group-title="ULUSAL",Show TV
+#EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" group-title="ULUSAL",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" group-title="ULUSAL",Star TV
+#EXTINF:-1 tvg-id="STAR.TV.HD.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" group-title="ULUSAL",Star TV
 https://x.canlitvapp.com/star/index.m3u8?token=5079b0db0c9519fa23133b477486448a7280db7b-2c34fda2da38bbd4a20bd6301875924f-1779374273-1779363473
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" group-title="ULUSAL",Kanal D
+#EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" group-title="ULUSAL",Kanal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="ULUSAL",TR:ATV UHD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/eb8806ac-ebbf-43c3-a874-afd02b6a814e.m3u
