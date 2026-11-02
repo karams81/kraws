@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ahmetsitkibeker3/epg/refs/heads/main/epg-tr.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ahmetsitkibeker3/epg/refs/heads/main/epg-tr.xml"
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMNP7P7iXbr4NrZmNmvGr3Wc6d52bd-zHr0LPH4dUyAA&s" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Ulusal",ATV
